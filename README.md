@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** 
-- **Email:** [magomez09a@gmail.com] (mailto:magomez09a@gmail.com)
+- **Email:** [magomez09a@gmail.com](mailto:magomez09a@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/michael-gómez-516b80357](www.linkedin.com/in/michael-gómez-516b80357)
 
 ## 🏢 Experiencia Laboral
