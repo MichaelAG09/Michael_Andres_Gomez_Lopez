@@ -16,7 +16,7 @@
 - Gestion de mercados.
 
 ### **BRM S.A.** _(2022 - 2023)_
-- Agente de telemercadeo, ventas de productos financieros, manejo de bases de datos seleccionadas, cierres comerciales, manejo de objeciones, capacitaciones de ventas en manejo de clientes.
+- Agente de telemercadeo, ventas de productos financieros, servicio al cliente, manejo de bases de datos seleccionadas, cierres comerciales, manejo de objeciones, capacitaciones de ventas en manejo de clientes.
 
 ## 🎓 Educación
 ### **Servicio Nacional de Aprendizaje SENA** _(2024 - 2025)_
