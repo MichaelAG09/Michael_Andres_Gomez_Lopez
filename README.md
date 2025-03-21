@@ -30,7 +30,7 @@ Soy un profesional apasionado por la creación de marcas con impacto, con una gr
 ### **Servicio Nacional de Aprendizaje SENA** _(2024 - 2025)_
 - Tecnologo en gestion de mercados.
 ### **Insititucion Educativa San Mateo** _(2016)_
-- Bachiller academico
+- Bachiller academico.
   
 ## 💡 Habilidades
 - **Branding y marca**
