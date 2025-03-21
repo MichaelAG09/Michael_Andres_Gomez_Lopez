@@ -3,6 +3,7 @@
 
 ## Michael Andres Gomez Lopez
 **Profesión:** _Tecnologo en gestion de mercados_
+##
 **Perfil:** _Soy Tecnólogo en Gestión de Mercados con mas de 2 años de experiencia en ventas de productos intangibles. Mi enfoque siempre ha sido entregar resultados diferenciales, ofreciendo soluciones personalizadas para cada cliente, y contribuyendo al crecimiento continuo de las organizaciones con las que trabajo. Soy un profesional con alta capacidad para trabajar bajo presión, cumplir objetivos y liderar equipos, buscando siempre innovar en los métodos de trabajo y adaptarme a los nuevos restos del mercado cambiante._
 
 ## 📞 Contacto
