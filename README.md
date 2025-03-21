@@ -4,7 +4,15 @@
 ## Michael Andres Gomez Lopez
 **Profesión:** _Tecnologo en gestion de mercados_
 ##
-**Perfil:** _Soy Tecnólogo en Gestión de Mercados con mas de 2 años de experiencia en ventas de productos intangibles. Mi enfoque siempre ha sido entregar resultados diferenciales, ofreciendo soluciones personalizadas para cada cliente, y contribuyendo al crecimiento continuo de las organizaciones con las que trabajo. Soy un profesional con alta capacidad para trabajar bajo presión, cumplir objetivos y liderar equipos, buscando siempre innovar en los métodos de trabajo y adaptarme a los nuevos restos del mercado cambiante._
+**Perfil:** _Perfil Profesional - Especialista en Branding y Marca
+
+Soy un profesional con una sólida formación como Tecnólogo en Gestión de Mercados, especializado en el desarrollo y fortalecimiento de marcas. Mi experiencia abarca la producción digital, la creación de estrategias de marca, el análisis de mercado, las ventas, la negociación y el manejo de clientes.
+
+Mi enfoque se centra en la construcción de identidades de marca sólidas y coherentes, que resuenen con el público objetivo y generen un impacto positivo en el mercado. Poseo habilidades para desarrollar estrategias de branding efectivas, desde la conceptualización de la marca hasta la implementación de campañas de comunicación que fortalezcan su posicionamiento.
+
+Mi conocimiento en análisis de mercado me permite identificar oportunidades y tendencias para el desarrollo de marcas innovadoras y relevantes. Además, mis habilidades en ventas, negociación y manejo de clientes me permiten establecer relaciones sólidas y duraderas con los clientes, lo que se traduce en un mayor éxito en la construcción y gestión de la marca.
+
+Soy un profesional apasionado por la creación de marcas con impacto, con una gran capacidad de adaptación a los cambios del entorno empresarial y un compromiso con la excelencia. Busco oportunidades para aplicar mis habilidades y experiencia en proyectos que impulsen el crecimiento y el reconocimiento de las marcas._
 
 ## 📞 Contacto
 - **Teléfono:** 
