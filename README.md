@@ -1,29 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Michael Andres Gomez Lopez
+**Profesión:** _Tecnologo en gestion de mercados_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:** 
+- **Email:** [magomez09a@gmail.com] (mailto:magomez09a@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/michael-gómez-516b80357](www.linkedin.com/in/michael-gómez-516b80357)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Olimpica S.A.** _(2025 - Actualidad)_
+- Gestion de mercados.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **BRM S.A.** _(2022 - 2023)_
+- Agente de telemercadeo, ventas de productos financieros, manejo de bases de datos seleccionadas, cierres comerciales, manejo de objeciones, capacitaciones de ventas en manejo de clientes.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de Aprendizaje SENA** _(2024 - 2025)_
+- Tecnologo en gestion de mercados.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Branding y marca**
+- **Analisis de mercados**
+- **Produccion digital**
 
 ---
 
