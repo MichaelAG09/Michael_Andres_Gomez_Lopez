@@ -4,7 +4,7 @@
 ## Michael Andres Gomez Lopez
 **Profesión:** _Tecnologo en gestion de mercados_
 ##
-**Perfil:** _Perfil Profesional - Especialista en Branding y Marca
+**Perfil:** _Especialista en Branding y Marca
 
 Soy un profesional con una sólida formación como Tecnólogo en Gestión de Mercados, especializado en el desarrollo y fortalecimiento de marcas. Mi experiencia abarca la producción digital, la creación de estrategias de marca, el análisis de mercado, las ventas, la negociación y el manejo de clientes.
 
